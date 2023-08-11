@@ -12,7 +12,7 @@ To start building your own components and styles, follow these steps:
 
 1. open index.html with chrome or any web browser
 
-<img src="https://github.com/TechKumarNitish/portfolio_website_testimonials_section/blob/main/Screenshot%20from%202023-08-11%2013-21-48.png"/>
+<img src="https://github.com/TechKumarNitish/gitHubSource/blob/master/image/portfolio/one.png"/>
 
 ## Contributing
 
